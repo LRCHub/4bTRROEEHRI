@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "NICHIA",
+  "base_artist": "Watson",
+  "createdAt": "2026-02-14T15:03:49.518542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suicide Letters (feat. Nichia Cayson)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/01_Suicide_Letters_(feat._Nichia_Cayson)_Tech_N9ne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Twisted (feat. Nichia Cayson)",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/02_Twisted_(feat._Nichia_Cayson)_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Twisted ft. Nichia Cayson",
+      "artist": "Tech N9ne",
+      "has_synced": true,
+      "path": "select/03_Twisted_ft._Nichia_Cayson_Tech_N9ne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NICHIA",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/04_NICHIA_Watson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NICHIA",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_NICHIA_Watson.txt"
+    }
+  ]
+}
